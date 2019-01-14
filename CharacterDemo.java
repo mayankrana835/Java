@@ -1,5 +1,5 @@
 // Demonstrate char data type.
-class CharDemo 
+class CharacterDemo 
 {
     public static void main(String args[]) 
     {

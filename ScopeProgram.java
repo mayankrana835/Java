@@ -1,4 +1,4 @@
-class Scope {
+class ScopeProgram {
 public static void main(String args[]) {
 int x; // known to all code within main
 x = 10;

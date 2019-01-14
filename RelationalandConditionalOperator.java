@@ -1,4 +1,4 @@
-class RelationalandConditional 
+class RelationalandConditionalOperator 
 {
     public static void main(String[] args) 
     {

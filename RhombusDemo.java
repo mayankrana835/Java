@@ -1,5 +1,5 @@
 import java.util.*;
-public class Rhombus {
+public class RhombusDemo {
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);

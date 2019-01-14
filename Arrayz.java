@@ -1,5 +1,5 @@
 import java.util.*;
-class Array {
+class Arrayz {
 	public static void main(String args[])
 	{int x[];
 	x= new int[10];

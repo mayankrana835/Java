@@ -1,5 +1,5 @@
 import java.util.*;
-class Integers
+class Integerz
 {
         public static void main (String args [])
         {

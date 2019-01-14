@@ -1,5 +1,5 @@
 import java.util.*;
-class VowelConsonant
+class Vowelz
 {
 	public static void main(String[ ] arg)
 	{

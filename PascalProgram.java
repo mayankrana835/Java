@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pascal 
+public class PascalProgram 
 {
      public static void main(String[] args) 
      {

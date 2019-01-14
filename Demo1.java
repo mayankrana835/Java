@@ -1,5 +1,5 @@
-class DemoDynamicInitailization
-{
+class Demo1
+
   public static void main(String args[]) 
   {
     int num,num1; // this declares a variable called num

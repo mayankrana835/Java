@@ -1,4 +1,4 @@
-class Ascii
+class AsciiProgram
 { 
  public static void main(String args[])
  {
